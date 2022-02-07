@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 import telebot
-token = "5173871551:AAF3CXaesiSrC8PRi_UYXOFw97-xLL9WZow"
+from auth_data import token
 
 
 def get_data():
